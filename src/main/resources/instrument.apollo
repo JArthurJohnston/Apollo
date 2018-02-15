@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<instrument>
+    <name>Dragon Dagger Ocarina</name>
+    <notes>
+        <name>C</name>
+        <lowerRange>527</lowerRange>
+        <upperRange>555</upperRange>
+    </notes>
+    <notes>
+        <name>D</name>
+        <lowerRange>584</lowerRange>
+        <upperRange>596</upperRange>
+    </notes>
+    <notes>
+        <name>E</name>
+        <lowerRange>647</lowerRange>
+        <upperRange>669</upperRange>
+    </notes>
+    <notes>
+        <name>F</name>
+        <lowerRange>691</lowerRange>
+        <upperRange>715</upperRange>
+    </notes>
+    <notes>
+        <name>G</name>
+        <lowerRange>759</lowerRange>
+        <upperRange>805</upperRange>
+    </notes>
+    <notes>
+        <name>G#</name>
+        <lowerRange>825</lowerRange>
+        <upperRange>845</upperRange>
+    </notes>
+    <notes>
+        <name>A</name>
+        <lowerRange>855</lowerRange>
+        <upperRange>883</upperRange>
+    </notes>
+</instrument>

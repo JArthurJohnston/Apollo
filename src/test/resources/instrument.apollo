@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<instrument>
+    <name>Boromir's Horn</name>
+    <notes>
+        <name>C</name>
+        <lowerRange>444</lowerRange>
+        <upperRange>555</upperRange>
+    </notes>
+    <notes>
+        <name>D</name>
+        <lowerRange>666</lowerRange>
+        <upperRange>777</upperRange>
+    </notes>
+    <notes>
+        <name>E#</name>
+        <lowerRange>888</lowerRange>
+        <upperRange>999</upperRange>
+    </notes>
+</instrument>
